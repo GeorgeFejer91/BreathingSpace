@@ -1,0 +1,10 @@
+=== BLUETOOTH LATENCY TEST RESULTS ===
+Test time: 2025-04-01 15:52:45
+
+Bluetooth device: Speakers (Woojer Strap Edge)
+Input device: Headset Microphone (Woojer Stra
+
+Expected pulse time: 0.5000 seconds
+
+No pulse detected in Bluetooth recording
+

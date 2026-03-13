@@ -1,0 +1,308 @@
+[
+  {
+    "timestamp": 7.08,
+    "milliseconds": 7080,
+    "sample_index": 339840,
+    "description": "First hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "00:07.0"
+  },
+  {
+    "timestamp": 15.03,
+    "milliseconds": 15030,
+    "sample_index": 721440,
+    "description": "Second hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "00:14.9"
+  },
+  {
+    "timestamp": 23.099,
+    "milliseconds": 23099,
+    "sample_index": 1108752,
+    "description": "Third hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "00:23.0"
+  },
+  {
+    "timestamp": 31.08,
+    "milliseconds": 31080,
+    "sample_index": 1491840,
+    "description": "Fourth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "00:31.0"
+  },
+  {
+    "timestamp": 39.15,
+    "milliseconds": 39150,
+    "sample_index": 1879200,
+    "description": "Fifth hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "00:39.1"
+  },
+  {
+    "timestamp": 47.1,
+    "milliseconds": 47100,
+    "sample_index": 2260800,
+    "description": "Sixth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "00:47.0"
+  },
+  {
+    "timestamp": 55.17,
+    "milliseconds": 55170,
+    "sample_index": 2648160,
+    "description": "Seventh hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "00:55.1"
+  },
+  {
+    "timestamp": 63.15,
+    "milliseconds": 63150,
+    "sample_index": 3031200,
+    "description": "Eighth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "01:03.1"
+  },
+  {
+    "timestamp": 71.22,
+    "milliseconds": 71220,
+    "sample_index": 3418560,
+    "description": "Ninth hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "01:11.1"
+  },
+  {
+    "timestamp": 79.17,
+    "milliseconds": 79170,
+    "sample_index": 3800160,
+    "description": "Tenth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "01:19.1"
+  },
+  {
+    "timestamp": 87.24,
+    "milliseconds": 87240,
+    "sample_index": 4187520,
+    "description": "Eleventh hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "01:27.2"
+  },
+  {
+    "timestamp": 95.22,
+    "milliseconds": 95220,
+    "sample_index": 4570560,
+    "description": "Twelfth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "01:35.1"
+  },
+  {
+    "timestamp": 103.26,
+    "milliseconds": 103260,
+    "sample_index": 4956480,
+    "description": "Thirteenth hold ends (timing shift +0.2s)",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "01:43.2"
+  },
+  {
+    "timestamp": 111.24,
+    "milliseconds": 111240,
+    "sample_index": 5339520,
+    "description": "Fourteenth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "01:51.2"
+  },
+  {
+    "timestamp": 119.31,
+    "milliseconds": 119310,
+    "sample_index": 5726880,
+    "description": "Fifteenth hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "01:59.2"
+  },
+  {
+    "timestamp": 127.29,
+    "milliseconds": 127290,
+    "sample_index": 6109920,
+    "description": "Sixteenth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "02:07.2"
+  },
+  {
+    "timestamp": 135.33,
+    "milliseconds": 135330,
+    "sample_index": 6495840,
+    "description": "Seventeenth hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "02:15.3"
+  },
+  {
+    "timestamp": 143.31,
+    "milliseconds": 143310,
+    "sample_index": 6878880,
+    "description": "Eighteenth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "02:23.2"
+  },
+  {
+    "timestamp": 151.38,
+    "milliseconds": 151380,
+    "sample_index": 7266240,
+    "description": "Nineteenth hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "02:31.3"
+  },
+  {
+    "timestamp": 159.33,
+    "milliseconds": 159330,
+    "sample_index": 7647840,
+    "description": "Twentieth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "02:39.3"
+  },
+  {
+    "timestamp": 167.43,
+    "milliseconds": 167430,
+    "sample_index": 8036640,
+    "description": "Twenty-first hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "02:47.3"
+  },
+  {
+    "timestamp": 175.38,
+    "milliseconds": 175380,
+    "sample_index": 8418240,
+    "description": "Twenty-second hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "02:55.3"
+  },
+  {
+    "timestamp": 183.449,
+    "milliseconds": 183449,
+    "sample_index": 8805552,
+    "description": "Twenty-third hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "03:03.4"
+  },
+  {
+    "timestamp": 191.43,
+    "milliseconds": 191430,
+    "sample_index": 9188640,
+    "description": "Twenty-fourth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "03:11.3"
+  },
+  {
+    "timestamp": 199.47,
+    "milliseconds": 199470,
+    "sample_index": 9574560,
+    "description": "Twenty-fifth hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "03:19.4"
+  },
+  {
+    "timestamp": 207.45,
+    "milliseconds": 207450,
+    "sample_index": 9957600,
+    "description": "Twenty-sixth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "03:27.4"
+  },
+  {
+    "timestamp": 215.49,
+    "milliseconds": 215490,
+    "sample_index": 10343520,
+    "description": "Twenty-seventh hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "03:35.4"
+  },
+  {
+    "timestamp": 223.47,
+    "milliseconds": 223470,
+    "sample_index": 10726560,
+    "description": "Twenty-eighth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "03:43.4"
+  },
+  {
+    "timestamp": 231.54,
+    "milliseconds": 231540,
+    "sample_index": 11113920,
+    "description": "Twenty-ninth hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "03:51.5"
+  },
+  {
+    "timestamp": 239.49,
+    "milliseconds": 239490,
+    "sample_index": 11495520,
+    "description": "Thirtieth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "03:59.4"
+  },
+  {
+    "timestamp": 247.59,
+    "milliseconds": 247590,
+    "sample_index": 11884320,
+    "description": "Thirty-first hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "04:07.5"
+  },
+  {
+    "timestamp": 255.54,
+    "milliseconds": 255540,
+    "sample_index": 12265920,
+    "description": "Thirty-second hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "04:15.5"
+  },
+  {
+    "timestamp": 263.58,
+    "milliseconds": 263580,
+    "sample_index": 12651840,
+    "description": "Thirty-third hold ends",
+    "breathphase": "inhale",
+    "marker_type": 1,
+    "retentionslot_timestamp": "04:23.5"
+  },
+  {
+    "timestamp": 271.56,
+    "milliseconds": 271560,
+    "sample_index": 13034880,
+    "description": "Thirty-fourth hold ends",
+    "breathphase": "exhale",
+    "marker_type": 2,
+    "retentionslot_timestamp": "04:31.5"
+  }
+]

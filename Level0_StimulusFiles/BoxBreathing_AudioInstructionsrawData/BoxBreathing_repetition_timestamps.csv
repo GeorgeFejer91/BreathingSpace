@@ -1,0 +1,35 @@
+retentionslot_timestamp,milliseconds,sample_index,description,breathphase
+00:07.0,7080,339840,First hold ends,inhale
+00:14.9,15030,721440,Second hold ends,exhale
+00:23.0,23099,1108752,Third hold ends,inhale
+00:31.0,31080,1491840,Fourth hold ends,exhale
+00:39.1,39150,1879200,Fifth hold ends,inhale
+00:47.0,47100,2260800,Sixth hold ends,exhale
+00:55.1,55170,2648160,Seventh hold ends,inhale
+01:03.1,63150,3031200,Eighth hold ends,exhale
+01:11.1,71220,3418560,Ninth hold ends,inhale
+01:19.1,79170,3800160,Tenth hold ends,exhale
+01:27.2,87240,4187520,Eleventh hold ends,inhale
+01:35.1,95220,4570560,Twelfth hold ends,exhale
+01:43.2,103260,4956480,Thirteenth hold ends (timing shift +0.2s),inhale
+01:51.2,111240,5339520,Fourteenth hold ends,exhale
+01:59.2,119310,5726880,Fifteenth hold ends,inhale
+02:07.2,127290,6109920,Sixteenth hold ends,exhale
+02:15.3,135330,6495840,Seventeenth hold ends,inhale
+02:23.2,143310,6878880,Eighteenth hold ends,exhale
+02:31.3,151380,7266240,Nineteenth hold ends,inhale
+02:39.3,159330,7647840,Twentieth hold ends,exhale
+02:47.3,167430,8036640,Twenty-first hold ends,inhale
+02:55.3,175380,8418240,Twenty-second hold ends,exhale
+03:03.4,183449,8805552,Twenty-third hold ends,inhale
+03:11.3,191430,9188640,Twenty-fourth hold ends,exhale
+03:19.4,199470,9574560,Twenty-fifth hold ends,inhale
+03:27.4,207450,9957600,Twenty-sixth hold ends,exhale
+03:35.4,215490,10343520,Twenty-seventh hold ends,inhale
+03:43.4,223470,10726560,Twenty-eighth hold ends,exhale
+03:51.5,231540,11113920,Twenty-ninth hold ends,inhale
+03:59.4,239490,11495520,Thirtieth hold ends,exhale
+04:07.5,247590,11884320,Thirty-first hold ends,inhale
+04:15.5,255540,12265920,Thirty-second hold ends,exhale
+04:23.5,263580,12651840,Thirty-third hold ends,inhale
+04:31.5,271560,13034880,Thirty-fourth hold ends,exhale

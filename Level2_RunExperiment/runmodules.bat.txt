@@ -1,0 +1,44 @@
+@echo off
+REM ============================================
+REM PPS Experiment Launcher
+REM ============================================
+REM This batch file launches the PPS Experiment GUI
+REM It sets the working directory and ensures all
+REM paths are correctly referenced
+
+echo Starting PPS Experiment...
+
+REM Set the working directory
+cd /d "C:\Users\cogpsy-vrlab\Documents\GitHub\BreathingSpace\Level2_RunExperiment"
+
+REM Verify the Python scripts exist
+IF NOT EXIST "pps_experiment_GUI.py" (
+    echo ERROR: GUI script not found: pps_experiment_GUI.py
+    goto error
+)
+
+IF NOT EXIST "pps_audio_playback.py" (
+    echo ERROR: Audio playback script not found: pps_audio_playback.py
+    goto error
+)
+
+REM Clean up any previous status files
+IF EXIST "experiment_status.json" del "experiment_status.json"
+
+REM Launch the GUI
+echo Launching experiment interface...
+python pps_experiment_GUI.py
+IF %ERRORLEVEL% NEQ 0 goto error
+
+echo Experiment completed.
+goto end
+
+:error
+echo.
+echo An error occurred while running the experiment.
+echo Please check the error messages above.
+pause
+exit /b 1
+
+:end
+exit /b 0

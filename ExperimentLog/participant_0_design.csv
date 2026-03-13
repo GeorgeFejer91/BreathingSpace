@@ -1,0 +1,11 @@
+participant_id,trial_number,stimulus_type,trial_type,soa_condition_idx,soa_value_ms,jitter_ms,timestamp_original,timestamp_after_jitter,timestamp_with_soa,base_ms,jittered_ms,soa_ms,is_tactile
+0,20,right,inhalation,0,190,500,00:32.2,00:32.7,00:32.9,32200.000000000004,32700.000000000004,32890.0,True
+0,21,front,inhalation,1,400,300,00:40.2,00:40.5,00:40.9,40200.0,40500.0,40900.0,True
+0,22,left,inhalation,2,700,500,00:48.2,00:48.7,00:49.4,48200.0,48700.0,49400.0,True
+0,23,front,exhalation,0,190,200,00:56.2,00:56.4,00:56.6,56200.0,56400.0,56590.0,True
+0,25,right,exhalation,2,700,300,01:12.2,01:12.5,01:13.2,72200.0,72500.0,73200.0,True
+0,26,right,baseline,0,190,500,01:20.2,01:20.7,01:20.9,80200.0,80700.0,80890.0,True
+0,27,front,baseline,1,400,400,01:28.2,01:28.6,01:29.0,88200.0,88600.0,89000.0,True
+0,28,left,baseline,2,700,300,01:36.2,01:36.5,01:37.2,96200.0,96500.0,97200.0,True
+0,24,left,exhalation,1,400,300,01:4.2,01:4.5,01:4.9,64200.0,64500.0,64900.0,True
+0,29,front,catch,0,190,500,01:44.2,01:44.7,01:44.9,104200.0,104700.0,104890.0,False

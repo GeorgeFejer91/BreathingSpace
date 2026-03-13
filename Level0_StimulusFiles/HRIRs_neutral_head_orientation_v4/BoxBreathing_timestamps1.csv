@@ -1,0 +1,39 @@
+retentionslot_timestamp,milliseconds,sample_index,description,breathphase,,
+00:31.9,31950,1533600,First hold ends,inhale,,hold
+00:39.9,39930,1916640,Second hold ends,exhale,7980,hold
+00:48.0,48000,2304000,Third hold ends,inhale,8070,hold
+00:56.0,55950,2685600,Fourth hold ends,exhale,7950,hold
+01:04.0,64019,3072912,Fifth hold ends,inhale,8069,hold
+01:12.0,72000,3456000,Sixth hold ends,exhale,7981,hold
+01:20.1,80070,3843360,Seventh hold ends,inhale,8070,hold
+01:28.0,88020,4224960,Eighth hold ends,exhale,7950,hold
+01:36.1,96090,4612320,Ninth hold ends,inhale,8070,hold
+01:44.1,104070,4995360,Tenth hold ends,exhale,7980,hold
+01:52.1,112140,5382720,Eleventh hold ends,inhale,8070,hold
+02:00.1,120090,5764320,Twelfth hold ends,exhale,7950,hold
+02:08.2,128160,6151680,Thirteenth hold ends (timing shift +0.2s),inhale,8070,hold
+02:16.1,136140,6534720,Fourteenth hold ends,exhale,7980,hold
+02:24.2,144180,6920640,Fifteenth hold ends,inhale,8040,hold
+02:32.2,152160,7303680,Sixteenth hold ends,exhale,7980,hold
+02:40.2,160230,7691040,Seventeenth hold ends,inhale,8070,hold
+02:48.2,168210,8074080,Eighteenth hold ends,exhale,7980,hold
+02:56.3,176250,8460000,Nineteenth hold ends,inhale,8040,hold
+03:04.2,184230,8843040,Twentieth hold ends,exhale,7980,hold
+03:12.3,192300,9230400,Twenty-first hold ends,inhale,8070,hold
+03:20.3,200250,9612000,Twenty-second hold ends,exhale,7950,hold
+03:28.3,208350,10000800,Twenty-third hold ends,inhale,8100,hold
+03:36.3,216300,10382400,Twenty-fourth hold ends,exhale,7950,hold
+03:44.4,224369,10769712,Twenty-fifth hold ends,inhale,8069,hold
+03:52.3,232350,11152800,Twenty-sixth hold ends,exhale,7981,hold
+04:00.4,240390,11538720,Twenty-seventh hold ends,inhale,8040,hold
+04:08.4,248370,11921760,Twenty-eighth hold ends,exhale,7980,hold
+04:16.4,256410,12307680,Twenty-ninth hold ends,inhale,8040,hold
+04:24.4,264390,12690720,Thirtieth hold ends,exhale,7980,hold
+04:32.5,272460,13078080,Thirty-first hold ends,inhale,8070,hold
+04:40.4,280410,13459680,Thirty-second hold ends,exhale,7950,hold
+04:48.5,288510,13848480,Thirty-third hold ends,inhale,8100,hold
+04:56.5,296460,14230080,Thirty-fourth hold ends,exhale,7950,hold
+05:04.5,304500,14616000,Thirty-fifth hold ends (timing shift +0.2s),inhale,8040,hold
+05:12.5,312480,14999040,Thirty-sixth hold ends,exhale,7980,hold
+05:20.6,320550,15386400,Thirty-seventh hold ends,inhale,8070,hold
+05:28.5,328530,15769440,Thirty-eighth hold ends (final hold),exhale,7980,hold

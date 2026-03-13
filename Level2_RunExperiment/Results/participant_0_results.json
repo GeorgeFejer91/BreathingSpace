@@ -1,0 +1,916 @@
+{
+  "participant_id": 0,
+  "phase": "main",
+  "timestamp": "20250328_220327",
+  "total_trials": 180,
+  "correct_responses": 0,
+  "false_alarms": 0,
+  "missed_trials": [
+    {
+      "trial_number": 1,
+      "tactile_time": 97.6
+    },
+    {
+      "trial_number": 2,
+      "tactile_time": 105.0
+    },
+    {
+      "trial_number": 3,
+      "tactile_time": 112.7
+    },
+    {
+      "trial_number": 4,
+      "tactile_time": 121.3
+    },
+    {
+      "trial_number": 5,
+      "tactile_time": 130.2
+    },
+    {
+      "trial_number": 6,
+      "tactile_time": 144.9
+    },
+    {
+      "trial_number": 7,
+      "tactile_time": 153.4
+    },
+    {
+      "trial_number": 8,
+      "tactile_time": 162.0
+    },
+    {
+      "trial_number": 9,
+      "tactile_time": 177.5
+    },
+    {
+      "trial_number": 10,
+      "tactile_time": 184.9
+    },
+    {
+      "trial_number": 11,
+      "tactile_time": 193.6
+    },
+    {
+      "trial_number": 12,
+      "tactile_time": 201.9
+    },
+    {
+      "trial_number": 13,
+      "tactile_time": 208.6
+    },
+    {
+      "trial_number": 14,
+      "tactile_time": 217.6
+    },
+    {
+      "trial_number": 15,
+      "tactile_time": 226.1
+    },
+    {
+      "trial_number": 16,
+      "tactile_time": 233.0
+    },
+    {
+      "trial_number": 17,
+      "tactile_time": 240.9
+    },
+    {
+      "trial_number": 18,
+      "tactile_time": 249.5
+    },
+    {
+      "trial_number": 19,
+      "tactile_time": 257.3
+    },
+    {
+      "trial_number": 20,
+      "tactile_time": 266.1
+    },
+    {
+      "trial_number": 21,
+      "tactile_time": 274.3
+    },
+    {
+      "trial_number": 22,
+      "tactile_time": 281.2
+    },
+    {
+      "trial_number": 23,
+      "tactile_time": 289.6
+    },
+    {
+      "trial_number": 24,
+      "tactile_time": 297.3
+    },
+    {
+      "trial_number": 25,
+      "tactile_time": 305.7
+    },
+    {
+      "trial_number": 26,
+      "tactile_time": 312.8
+    },
+    {
+      "trial_number": 27,
+      "tactile_time": 321.6
+    },
+    {
+      "trial_number": 28,
+      "tactile_time": 322.6
+    },
+    {
+      "trial_number": 29,
+      "tactile_time": 328.1
+    },
+    {
+      "trial_number": 30,
+      "tactile_time": 329.1
+    },
+    {
+      "trial_number": 31,
+      "tactile_time": 337.3
+    },
+    {
+      "trial_number": 32,
+      "tactile_time": 344.8
+    },
+    {
+      "trial_number": 33,
+      "tactile_time": 352.3
+    },
+    {
+      "trial_number": 34,
+      "tactile_time": 360.7
+    },
+    {
+      "trial_number": 35,
+      "tactile_time": 369.3
+    },
+    {
+      "trial_number": 36,
+      "tactile_time": 377.1
+    },
+    {
+      "trial_number": 37,
+      "tactile_time": 384.0
+    },
+    {
+      "trial_number": 38,
+      "tactile_time": 392.3
+    },
+    {
+      "trial_number": 39,
+      "tactile_time": 400.4
+    },
+    {
+      "trial_number": 40,
+      "tactile_time": 416.9
+    },
+    {
+      "trial_number": 41,
+      "tactile_time": 424.6
+    },
+    {
+      "trial_number": 42,
+      "tactile_time": 440.5
+    },
+    {
+      "trial_number": 43,
+      "tactile_time": 448.5
+    },
+    {
+      "trial_number": 44,
+      "tactile_time": 456.6
+    },
+    {
+      "trial_number": 45,
+      "tactile_time": 464.4
+    },
+    {
+      "trial_number": 46,
+      "tactile_time": 472.7
+    },
+    {
+      "trial_number": 47,
+      "tactile_time": 480.3
+    },
+    {
+      "trial_number": 48,
+      "tactile_time": 488.2
+    },
+    {
+      "trial_number": 49,
+      "tactile_time": 496.8
+    },
+    {
+      "trial_number": 50,
+      "tactile_time": 505.5
+    },
+    {
+      "trial_number": 51,
+      "tactile_time": 512.4
+    },
+    {
+      "trial_number": 52,
+      "tactile_time": 520.7
+    },
+    {
+      "trial_number": 53,
+      "tactile_time": 528.3
+    },
+    {
+      "trial_number": 54,
+      "tactile_time": 537.7
+    },
+    {
+      "trial_number": 55,
+      "tactile_time": 544.4
+    },
+    {
+      "trial_number": 56,
+      "tactile_time": 552.5
+    },
+    {
+      "trial_number": 57,
+      "tactile_time": 560.7
+    },
+    {
+      "trial_number": 58,
+      "tactile_time": 568.5
+    },
+    {
+      "trial_number": 59,
+      "tactile_time": 576.7
+    },
+    {
+      "trial_number": 60,
+      "tactile_time": 584.9
+    },
+    {
+      "trial_number": 61,
+      "tactile_time": 586.0
+    },
+    {
+      "trial_number": 62,
+      "tactile_time": 593.9
+    },
+    {
+      "trial_number": 63,
+      "tactile_time": 602.2
+    },
+    {
+      "trial_number": 64,
+      "tactile_time": 617.9
+    },
+    {
+      "trial_number": 65,
+      "tactile_time": 626.4
+    },
+    {
+      "trial_number": 66,
+      "tactile_time": 634.5
+    },
+    {
+      "trial_number": 67,
+      "tactile_time": 641.6
+    },
+    {
+      "trial_number": 68,
+      "tactile_time": 650.0
+    },
+    {
+      "trial_number": 69,
+      "tactile_time": 658.3
+    },
+    {
+      "trial_number": 70,
+      "tactile_time": 666.5
+    },
+    {
+      "trial_number": 71,
+      "tactile_time": 673.6
+    },
+    {
+      "trial_number": 72,
+      "tactile_time": 682.0
+    },
+    {
+      "trial_number": 73,
+      "tactile_time": 691.2
+    },
+    {
+      "trial_number": 74,
+      "tactile_time": 698.5
+    },
+    {
+      "trial_number": 75,
+      "tactile_time": 705.9
+    },
+    {
+      "trial_number": 76,
+      "tactile_time": 713.8
+    },
+    {
+      "trial_number": 77,
+      "tactile_time": 722.8
+    },
+    {
+      "trial_number": 78,
+      "tactile_time": 730.9
+    },
+    {
+      "trial_number": 79,
+      "tactile_time": 739.2
+    },
+    {
+      "trial_number": 80,
+      "tactile_time": 755.3
+    },
+    {
+      "trial_number": 81,
+      "tactile_time": 763.1
+    },
+    {
+      "trial_number": 82,
+      "tactile_time": 770.3
+    },
+    {
+      "trial_number": 83,
+      "tactile_time": 778.5
+    },
+    {
+      "trial_number": 84,
+      "tactile_time": 787.4
+    },
+    {
+      "trial_number": 85,
+      "tactile_time": 794.0
+    },
+    {
+      "trial_number": 86,
+      "tactile_time": 802.6
+    },
+    {
+      "trial_number": 87,
+      "tactile_time": 810.3
+    },
+    {
+      "trial_number": 88,
+      "tactile_time": 819.2
+    },
+    {
+      "trial_number": 89,
+      "tactile_time": 827.0
+    },
+    {
+      "trial_number": 90,
+      "tactile_time": 834.0
+    },
+    {
+      "trial_number": 91,
+      "tactile_time": 842.0
+    },
+    {
+      "trial_number": 92,
+      "tactile_time": 851.3
+    },
+    {
+      "trial_number": 93,
+      "tactile_time": 858.8
+    },
+    {
+      "trial_number": 94,
+      "tactile_time": 867.2
+    },
+    {
+      "trial_number": 95,
+      "tactile_time": 875.1
+    },
+    {
+      "trial_number": 96,
+      "tactile_time": 883.5
+    },
+    {
+      "trial_number": 97,
+      "tactile_time": 891.0
+    },
+    {
+      "trial_number": 98,
+      "tactile_time": 899.4
+    },
+    {
+      "trial_number": 99,
+      "tactile_time": 906.9
+    },
+    {
+      "trial_number": 100,
+      "tactile_time": 916.0
+    },
+    {
+      "trial_number": 101,
+      "tactile_time": 931.4
+    },
+    {
+      "trial_number": 102,
+      "tactile_time": 939.9
+    },
+    {
+      "trial_number": 103,
+      "tactile_time": 948.4
+    },
+    {
+      "trial_number": 104,
+      "tactile_time": 955.9
+    },
+    {
+      "trial_number": 105,
+      "tactile_time": 963.6
+    },
+    {
+      "trial_number": 106,
+      "tactile_time": 971.4
+    },
+    {
+      "trial_number": 107,
+      "tactile_time": 979.8
+    },
+    {
+      "trial_number": 108,
+      "tactile_time": 988.1
+    },
+    {
+      "trial_number": 109,
+      "tactile_time": 996.1
+    },
+    {
+      "trial_number": 110,
+      "tactile_time": 1003.6
+    },
+    {
+      "trial_number": 111,
+      "tactile_time": 1011.6
+    },
+    {
+      "trial_number": 112,
+      "tactile_time": 1019.9
+    },
+    {
+      "trial_number": 113,
+      "tactile_time": 1028.0
+    },
+    {
+      "trial_number": 114,
+      "tactile_time": 1035.7
+    },
+    {
+      "trial_number": 115,
+      "tactile_time": 1044.6
+    },
+    {
+      "trial_number": 116,
+      "tactile_time": 1051.8
+    },
+    {
+      "trial_number": 117,
+      "tactile_time": 1060.8
+    },
+    {
+      "trial_number": 118,
+      "tactile_time": 1068.4
+    },
+    {
+      "trial_number": 119,
+      "tactile_time": 1076.8
+    },
+    {
+      "trial_number": 120,
+      "tactile_time": 1083.8
+    },
+    {
+      "trial_number": 121,
+      "tactile_time": 1091.7
+    },
+    {
+      "trial_number": 122,
+      "tactile_time": 1100.2
+    },
+    {
+      "trial_number": 123,
+      "tactile_time": 1107.6
+    },
+    {
+      "trial_number": 124,
+      "tactile_time": 1115.9
+    },
+    {
+      "trial_number": 125,
+      "tactile_time": 1118.0
+    },
+    {
+      "trial_number": 126,
+      "tactile_time": 1124.5
+    },
+    {
+      "trial_number": 127,
+      "tactile_time": 1133.4
+    },
+    {
+      "trial_number": 128,
+      "tactile_time": 1140.9
+    },
+    {
+      "trial_number": 129,
+      "tactile_time": 1148.7
+    },
+    {
+      "trial_number": 130,
+      "tactile_time": 1157.1
+    },
+    {
+      "trial_number": 131,
+      "tactile_time": 1164.8
+    },
+    {
+      "trial_number": 132,
+      "tactile_time": 1181.0
+    },
+    {
+      "trial_number": 133,
+      "tactile_time": 1188.5
+    },
+    {
+      "trial_number": 134,
+      "tactile_time": 1198.0
+    },
+    {
+      "trial_number": 135,
+      "tactile_time": 1204.5
+    },
+    {
+      "trial_number": 136,
+      "tactile_time": 1220.9
+    },
+    {
+      "trial_number": 137,
+      "tactile_time": 1229.0
+    },
+    {
+      "trial_number": 138,
+      "tactile_time": 1238.1
+    },
+    {
+      "trial_number": 139,
+      "tactile_time": 1253.2
+    },
+    {
+      "trial_number": 140,
+      "tactile_time": 1261.6
+    },
+    {
+      "trial_number": 141,
+      "tactile_time": 1269.0
+    },
+    {
+      "trial_number": 142,
+      "tactile_time": 1277.8
+    },
+    {
+      "trial_number": 143,
+      "tactile_time": 1285.5
+    },
+    {
+      "trial_number": 144,
+      "tactile_time": 1293.5
+    },
+    {
+      "trial_number": 145,
+      "tactile_time": 1301.5
+    },
+    {
+      "trial_number": 146,
+      "tactile_time": 1317.1
+    },
+    {
+      "trial_number": 147,
+      "tactile_time": 1325.4
+    },
+    {
+      "trial_number": 148,
+      "tactile_time": 1334.2
+    },
+    {
+      "trial_number": 149,
+      "tactile_time": 1342.5
+    },
+    {
+      "trial_number": 150,
+      "tactile_time": 1350.3
+    },
+    {
+      "trial_number": 151,
+      "tactile_time": 1357.7
+    },
+    {
+      "trial_number": 152,
+      "tactile_time": 1365.6
+    },
+    {
+      "trial_number": 153,
+      "tactile_time": 1374.4
+    },
+    {
+      "trial_number": 154,
+      "tactile_time": 1381.7
+    },
+    {
+      "trial_number": 155,
+      "tactile_time": 1382.2
+    },
+    {
+      "trial_number": 156,
+      "tactile_time": 1398.3
+    },
+    {
+      "trial_number": 157,
+      "tactile_time": 1407.0
+    },
+    {
+      "trial_number": 158,
+      "tactile_time": 1414.3
+    },
+    {
+      "trial_number": 159,
+      "tactile_time": 1422.4
+    },
+    {
+      "trial_number": 160,
+      "tactile_time": 1431.6
+    },
+    {
+      "trial_number": 161,
+      "tactile_time": 1439.2
+    },
+    {
+      "trial_number": 162,
+      "tactile_time": 1446.6
+    },
+    {
+      "trial_number": 163,
+      "tactile_time": 1455.4
+    },
+    {
+      "trial_number": 164,
+      "tactile_time": 1470.2
+    },
+    {
+      "trial_number": 165,
+      "tactile_time": 1478.5
+    },
+    {
+      "trial_number": 166,
+      "tactile_time": 1486.9
+    },
+    {
+      "trial_number": 167,
+      "tactile_time": 1502.8
+    },
+    {
+      "trial_number": 168,
+      "tactile_time": 1510.0
+    },
+    {
+      "trial_number": 169,
+      "tactile_time": 1519.6
+    },
+    {
+      "trial_number": 170,
+      "tactile_time": 1526.4
+    },
+    {
+      "trial_number": 171,
+      "tactile_time": 1534.9
+    },
+    {
+      "trial_number": 172,
+      "tactile_time": 1543.5
+    },
+    {
+      "trial_number": 173,
+      "tactile_time": 1558.7
+    },
+    {
+      "trial_number": 174,
+      "tactile_time": 1566.7
+    },
+    {
+      "trial_number": 175,
+      "tactile_time": 1574.3
+    },
+    {
+      "trial_number": 176,
+      "tactile_time": 1590.4
+    },
+    {
+      "trial_number": 177,
+      "tactile_time": 1599.1
+    },
+    {
+      "trial_number": 178,
+      "tactile_time": 1608.0
+    },
+    {
+      "trial_number": 179,
+      "tactile_time": 1615.4
+    },
+    {
+      "trial_number": 180,
+      "tactile_time": 1630.9
+    }
+  ],
+  "all_clicks": [],
+  "tactile_times": [
+    97.6,
+    105.0,
+    112.7,
+    121.3,
+    130.2,
+    144.9,
+    153.4,
+    162.0,
+    177.5,
+    184.9,
+    193.6,
+    201.9,
+    208.6,
+    217.6,
+    226.1,
+    233.0,
+    240.9,
+    249.5,
+    257.3,
+    266.1,
+    274.3,
+    281.2,
+    289.6,
+    297.3,
+    305.7,
+    312.8,
+    321.6,
+    322.6,
+    328.1,
+    329.1,
+    337.3,
+    344.8,
+    352.3,
+    360.7,
+    369.3,
+    377.1,
+    384.0,
+    392.3,
+    400.4,
+    416.9,
+    424.6,
+    440.5,
+    448.5,
+    456.6,
+    464.4,
+    472.7,
+    480.3,
+    488.2,
+    496.8,
+    505.5,
+    512.4,
+    520.7,
+    528.3,
+    537.7,
+    544.4,
+    552.5,
+    560.7,
+    568.5,
+    576.7,
+    584.9,
+    586.0,
+    593.9,
+    602.2,
+    617.9,
+    626.4,
+    634.5,
+    641.6,
+    650.0,
+    658.3,
+    666.5,
+    673.6,
+    682.0,
+    691.2,
+    698.5,
+    705.9,
+    713.8,
+    722.8,
+    730.9,
+    739.2,
+    755.3,
+    763.1,
+    770.3,
+    778.5,
+    787.4,
+    794.0,
+    802.6,
+    810.3,
+    819.2,
+    827.0,
+    834.0,
+    842.0,
+    851.3,
+    858.8,
+    867.2,
+    875.1,
+    883.5,
+    891.0,
+    899.4,
+    906.9,
+    916.0,
+    931.4,
+    939.9,
+    948.4,
+    955.9,
+    963.6,
+    971.4,
+    979.8,
+    988.1,
+    996.1,
+    1003.6,
+    1011.6,
+    1019.9,
+    1028.0,
+    1035.7,
+    1044.6,
+    1051.8,
+    1060.8,
+    1068.4,
+    1076.8,
+    1083.8,
+    1091.7,
+    1100.2,
+    1107.6,
+    1115.9,
+    1118.0,
+    1124.5,
+    1133.4,
+    1140.9,
+    1148.7,
+    1157.1,
+    1164.8,
+    1181.0,
+    1188.5,
+    1198.0,
+    1204.5,
+    1220.9,
+    1229.0,
+    1238.1,
+    1253.2,
+    1261.6,
+    1269.0,
+    1277.8,
+    1285.5,
+    1293.5,
+    1301.5,
+    1317.1,
+    1325.4,
+    1334.2,
+    1342.5,
+    1350.3,
+    1357.7,
+    1365.6,
+    1374.4,
+    1381.7,
+    1382.2,
+    1398.3,
+    1407.0,
+    1414.3,
+    1422.4,
+    1431.6,
+    1439.2,
+    1446.6,
+    1455.4,
+    1470.2,
+    1478.5,
+    1486.9,
+    1502.8,
+    1510.0,
+    1519.6,
+    1526.4,
+    1534.9,
+    1543.5,
+    1558.7,
+    1566.7,
+    1574.3,
+    1590.4,
+    1599.1,
+    1608.0,
+    1615.4,
+    1630.9
+  ],
+  "response_window": 1.5,
+  "recovery_generated": false,
+  "recovery_files": null
+}

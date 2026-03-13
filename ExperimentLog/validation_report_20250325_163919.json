@@ -1,0 +1,78 @@
+{
+  "config": {
+    "repetitions_per_condition": 4,
+    "included_conditions": {
+      "inhalation": true,
+      "exhalation": true,
+      "baseline": true
+    },
+    "catch_trial_percentage": 10,
+    "soa_conditions_ms": [
+      190,
+      400,
+      700,
+      1000,
+      1500
+    ],
+    "jitter_options_ms": [
+      100,
+      200,
+      300,
+      400,
+      500
+    ],
+    "stimulus_types": [
+      "pink",
+      "brown",
+      "white",
+      "blue"
+    ],
+    "debug_mode": true,
+    "validation": {
+      "check_counterbalancing": true,
+      "generate_plots": true,
+      "save_detailed_report": true
+    },
+    "audio_extension": {
+      "intro_segment_end": "02:00.2",
+      "repeat_segment_start": "02:00.2",
+      "repeat_segment_end": "04:56.4",
+      "preserve_ending": true,
+      "ending_duration_sec": 45
+    },
+    "paths": {
+      "base_dir": "C:\\Users\\cogpsy-vrlab\\Documents\\GitHub\\BreathingSpace",
+      "level0_dir": "C:\\Users\\cogpsy-vrlab\\Documents\\GitHub\\BreathingSpace\\Level0_StimulusFiles",
+      "experiment_log_dir": "C:\\Users\\cogpsy-vrlab\\Documents\\GitHub\\BreathingSpace\\ExperimentLog",
+      "audio_output_dir": "C:\\Users\\cogpsy-vrlab\\Documents\\GitHub\\BreathingSpace\\ExperimentAudio"
+    }
+  },
+  "timestamp": "20250325_163919",
+  "participants": {
+    "0": {
+      "status": "error",
+      "validation": {},
+      "files": {}
+    },
+    "1": {
+      "status": "error",
+      "validation": {},
+      "files": {}
+    },
+    "2": {
+      "status": "error",
+      "validation": {},
+      "files": {}
+    },
+    "3": {
+      "status": "error",
+      "validation": {},
+      "files": {}
+    },
+    "4": {
+      "status": "error",
+      "validation": {},
+      "files": {}
+    }
+  }
+}
